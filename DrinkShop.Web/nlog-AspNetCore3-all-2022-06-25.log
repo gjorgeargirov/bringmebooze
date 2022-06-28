@@ -1,0 +1,190 @@
+2022-06-25 17:03:59.9287|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 17:04:15.2440|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 17:04:15.2440|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 17:04:15.2739|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 17:06:00.3296|14|WARN|Microsoft.AspNetCore.Identity.UserManager|User 21d97d89-a08c-4cf5-932e-3edd8c436ad0 password validation failed: PasswordRequiresNonAlphanumeric. 
+2022-06-25 17:06:00.3296|14|WARN|Microsoft.AspNetCore.Identity.UserManager|User d9990712-85a6-4b39-9310-e1f62bfae66b password validation failed: PasswordRequiresNonAlphanumeric. 
+2022-06-25 17:06:09.8163|14|WARN|Microsoft.AspNetCore.Identity.UserManager|User a95f73fd-1eb2-4a90-b3dd-84a544a4119e password validation failed: PasswordRequiresNonAlphanumeric. 
+2022-06-25 17:06:23.0734|14|WARN|Microsoft.AspNetCore.Identity.UserManager|User fd20a865-2ac7-46ec-b9f4-d5add49eeb53 password validation failed: PasswordRequiresNonAlphanumeric;PasswordRequiresUpper. 
+2022-06-25 17:06:53.1714|0|INFO|DrinkShop.Services.Implementation.ProductService|Product was successfuly added into Shopping Cart 
+2022-06-25 17:09:12.1054|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 17:09:14.5990|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 17:09:14.5990|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 17:09:14.6064|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 17:12:06.3161|0|INFO|DrinkShop.Services.Implementation.ProductService|Product was successfuly added into Shopping Cart 
+2022-06-25 22:31:03.9896|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:31:09.0634|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:31:09.0811|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:31:09.0998|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:34:20.5975|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:34:22.5277|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:34:22.5277|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:34:22.5277|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:36:15.1122|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:36:16.7420|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:36:16.7438|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:36:16.7438|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:38:58.4247|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:39:00.3745|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:39:00.3745|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:39:00.3745|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:40:05.7802|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:40:09.2943|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:40:09.2943|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:40:09.3061|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:41:08.0620|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:41:09.8430|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:41:09.8430|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:41:09.8430|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:42:23.2228|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:42:27.0675|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:42:27.0814|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:42:27.1106|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:44:06.6643|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:44:09.2219|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:44:09.2219|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:44:09.2297|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:44:52.7064|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:44:54.3926|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:44:54.3926|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:44:54.4004|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:47:52.9151|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:47:54.5448|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:47:54.5448|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:47:54.5448|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:49:49.9458|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:49:51.5108|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:49:51.5108|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:49:51.5108|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:51:06.8575|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:51:08.7237|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:51:08.7237|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:51:08.7339|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:52:33.5229|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:52:35.4014|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:52:35.4014|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:52:35.4014|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:55:47.8097|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:55:49.5280|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:55:49.5280|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:55:49.5280|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 22:57:00.4799|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 22:57:02.3568|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 22:57:02.3568|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 22:57:02.3568|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:00:06.5904|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:00:08.3956|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:00:08.3991|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:00:08.3991|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:01:14.5363|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:01:16.0500|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:01:16.0500|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:01:16.0568|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:02:31.5770|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:02:33.4290|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:02:33.4331|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:02:33.4331|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:03:16.7916|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:03:19.4266|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:03:19.4266|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:03:19.4334|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:04:11.8182|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:04:17.4079|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:04:17.4079|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:04:17.4157|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:05:11.9464|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:05:13.6933|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:05:13.6958|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:05:13.6958|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:05:40.7155|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:05:42.9168|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:05:42.9168|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:05:42.9426|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:06:13.5911|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:06:15.4785|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:06:15.4785|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:06:15.4984|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:07:03.7699|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:07:05.8988|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:07:05.9008|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:07:05.9008|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:08:31.3381|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:08:32.9982|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:08:32.9982|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:08:32.9982|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:09:22.6448|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:09:24.3090|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:09:24.3090|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:09:24.3090|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:10:25.2194|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:10:27.0122|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:10:27.0122|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:10:27.0122|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:11:51.6565|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:11:53.2846|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:11:53.2846|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:11:53.2912|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:12:54.1691|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:12:55.7395|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:12:55.7395|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:12:55.7470|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:13:48.9430|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:13:50.6490|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:13:50.6513|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:13:50.6513|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:14:28.5181|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:14:30.8754|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:14:30.8754|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:14:30.8754|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:16:10.6979|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:16:12.3780|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:16:12.3780|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:16:12.3844|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:17:25.9391|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:17:27.5898|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:17:27.5898|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:17:27.5898|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:19:33.8083|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:19:35.5176|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:19:35.5176|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:19:35.5176|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:20:22.3774|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:20:24.1516|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:20:24.1516|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:20:24.1516|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:20:54.3745|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:20:56.0748|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:20:56.0868|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:20:56.0868|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:22:07.8296|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:22:09.5382|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:22:09.5403|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:22:09.5403|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:23:00.8488|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:23:02.4557|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:23:02.4557|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:23:02.4638|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:23:52.5908|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:23:54.4282|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:23:54.4454|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:23:54.4500|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:26:33.9053|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:26:35.5128|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:26:35.5128|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:26:35.5275|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:27:21.6902|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:27:23.2827|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:27:23.2827|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:27:23.2827|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:29:13.7539|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:29:15.4942|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:29:15.4942|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:29:15.4942|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:30:17.6002|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:30:19.3006|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:30:19.3006|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:30:19.3070|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 
+2022-06-25 23:32:14.9673|0|DEBUG|DrinkShop.Web.Program|init main 
+2022-06-25 23:32:16.6127|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-06-25 23:32:16.6303|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-06-25 23:32:16.6424|0|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Gjorge\Desktop\DrinkShopApplication\DrinkShop.Web 

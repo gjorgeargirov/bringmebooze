@@ -1,0 +1,55 @@
+﻿@model DrinkShop.Domain.Identity.UserRegistrationDto
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="container">
+    <div class="row text-center my-5">
+        <div class="col-6 m-auto">
+            <h1>Register</h1>
+            <hr />
+            @Html.ValidationSummary()
+            <form asp-action="Register" asp-controller="Account" method="post">
+
+                <div class="registerdiv">
+
+
+                    <div class="form-group col">
+                        <label asp-for="@Model.Email" class="col-lg-3 control-label"></label>
+                        <br>
+                        <div class="col">
+                            @Html.TextBoxFor(m => m.Email, new { placeholder = "Email", @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Email)
+                        </div>
+                    </div>
+
+
+                    <div class="form-group col">
+                        <label asp-for="@Model.Password" class="col-lg-3 control-label"></label>
+                        <br>
+                        <div class="col">
+                            @Html.PasswordFor(m => m.Password, new { placeholder = "Password", @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Password)
+                        </div>
+                    </div>
+
+                    <div class="form-group col">
+                        <label asp-for="@Model.ConfirmPassword" class="col-lg-3 control-label"></label>
+                        <br>
+                        <div class="col">
+                            @Html.PasswordFor(m => m.ConfirmPassword, new { placeholder = "Confirm Password", @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.ConfirmPassword)
+                        </div>
+                    </div>
+
+                    <div class="form-group col">
+                        <div class="btn-submit col-lg-6 m-auto">
+                            <button type="submit" class="btn btn-sm btn-success px-5">Sign Up</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+            <hr />
+        </div>
+    </div>
+</div>

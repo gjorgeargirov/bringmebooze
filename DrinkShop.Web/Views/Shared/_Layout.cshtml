@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BringMeBooze</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body class="">
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark border-bottom box-shadow" style="background-color:#393E46">
+            <div class="container">
+                <a class="navbar-brand text-white" asp-area="" asp-controller="Home" asp-action="Index">BringMeBooze</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse float-right">
+                    <partial name="_LoginPartial" />
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a style="color:#00ADB5" onmouseover="this.style.color='#00FFF5'" onmouseout="this.style.color='#00ADB5'"
+                               class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a style="color:#00ADB5" onmouseover="this.style.color='#00FFF5'" onmouseout="this.style.color='#00ADB5'"
+                               class="nav-link" asp-area="" asp-controller="Products" asp-action="Index">Products</a>
+                        </li>
+                        <li class="nav-item">
+                            <a style="color:#00ADB5" onmouseover="this.style.color='#00FFF5'" onmouseout="this.style.color='#00ADB5'"
+                               class="nav-link" asp-area="" asp-controller="ShoppingCart" asp-action="Index"><img height="14px" src=".\images\cart-shopping-solid.svg" alt="Icon"></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+    <div class="row mx-0 mt-5">
+    <div style="background-color:#222831" class="col text-center pb-4">
+        <div class="row mt-2 mx-0 py-4 text-white">
+            <div class="col-4">
+                <h6 class="text-secondary">CONTACT</h6>
+                <h6><img height="13px" src=".\images\location-dot-solid.svg" alt="Icon">  Ul. Kamnik bb, 1000 Skopje</h6>
+                <h6><img height="13px" src=".\images\phone-solid.svg" alt="Icon">  +389 2 2125 786</h6>
+                <h6><img height="13px" src=".\images\envelope-solid.svg" alt="Icon">  support@bringmebooze.mk</h6>
+            </div>
+            <div class="col-4">
+                <h6 class="text-secondary">LEGAL</h6>
+                <h6>Delivery Policy</h6>
+                <h6>Terms and Conditions</h6>
+                <h6>Privacy Policy</h6>
+                <h6>Contact</h6>
+            </div>
+            <div class="col-3">
+                <h6 class="text-secondary">PAYMENT</h6>
+                <div class="row">
+                    <div class="col-4"><img class="img-fluid" src=".\images\Diners_btn.png" alt="Icon"></a></div>
+                    <div class="col-4"><img class="img-fluid" src=".\images\MasterCard_btn.png" alt="Icon"></a></div>
+                    <div class="col-4"><img class="img-fluid" src=".\images\visa_btn.png" alt="Icon"></a><br /></div>
+                </div>
+                <h6 class="text-left">Secure electronic payment Enabled by:</h6>
+                <div class="row">
+                    <div class="col"><img class="img-fluid" src=".\images\nlb1.png" alt="Icon"></a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+       </div>
+
+    <footer style="background-color:#222831" class="border-top footer text-muted">
+        <div class="container text-secondary">
+            &copy; 2022 - BringMeBooze
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
